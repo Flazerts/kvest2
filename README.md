@@ -60,10 +60,15 @@ https://ru.wikipedia.org/wiki/ASCII
 2) Какой из этих способ кодирования НЕ существует?
    а) Графический;       в) Числовой;
    б) Табличный;         г) Символьный.
+   
 3) Решите ребус:
+   
    ![image](https://github.com/Flazerts/kvest2/assets/130768084/ad2709f9-4580-4860-80ed-b3e8b6ec743c)
+   
 4) Решите ребус:
+   
    ![image](https://github.com/Flazerts/kvest2/assets/130768084/a7282cd0-8882-4e08-8fc6-0ed32055cb62)
+   
 5) Закодируйте сообщение:
    H - 01001000
    E - 01000101
